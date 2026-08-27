@@ -1,0 +1,7 @@
+credito_id,cliente_id,monto_otorgado,tasa_interes,plazo_meses,estado_actual
+101,1,5000.00,0.24,12,Al día
+102,2,15000.00,0.18,24,En mora
+103,3,3000.00,0.28,6,Al día
+104,4,30000.00,0.15,36,Al día
+105,5,4000.00,0.25,12,En mora
+106,6,20000.00,0.19,24,Castigado
